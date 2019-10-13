@@ -94,7 +94,7 @@ footer {
 		margin-right: 1%;
 		padding-left: 0;
 		padding-right: 0;
-		width: 18%
+		width: 18%;
 		white-space: nowrap;
 	}
 		
@@ -107,11 +107,11 @@ footer {
 		display: none;
 	}
 
-	.desktop: {
+	.desktop {
 		display: inline;
 	}
 		
-	.equip: {
+	.equip {
 		display: inline;
 		float: left;
 		margin-right: 1.5em;
@@ -179,7 +179,7 @@ footer {
 		background: -o-linear-gradient(#FFFFFF, #FFFF99); /* Opera */
 		background: -webkit-linear-gradient(#FFFFFF, #FFFF99); /* Chrome, Safari */
 		background: linear-gradient(#FFFFFF, #FFFF99);
-		background-attachment: fixed:
+		background-attachment: fixed;
 	}
 	main { 
 		border-style: none;
