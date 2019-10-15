@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!-- This template was created by David Foote ISM 5994 -->
+<html lang="en">
+<head>
+	<title>Forward Fitness Club</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	
+	<!-- Use the header area for the website name or logo -->
+	<header>
+		<a href="index.html"><img src="images/ffc_logo.png" alt="Forward Fitness Club Logo" ></a>
+	</header>
+
+	<!-- Use the nav area to add hyperlinks to other pages within the website -->
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">About Us</a></li>
+			<li><a href="class.html">Classes</a></li>
+			<li><a href="nutrition.html">Nutrition</a></li>
+			<li><a href="contact.html">Contact Us</a></li> 
+		</ul>
+	</nav>
+
+	<div id="abnner" class="desktop">
+		<img src="images/nutritionBanner.jpg" alt="nutrition banner image">
+	</div>
+
+	<!-- Use the main area to add the main conten of the webpage -->
+	<main>
+	
+		<article>
+			<h2>Food for Thought</h2>
+			<img src="images/nutrition1.jpg" alt="food for though image" class="desktop">
+			<p>Good nutrition is a lifestyle, not a diet, It starts with a new way of thinkin about food. Think of your body as a vehicle that uses food for fuel. Fill your tank with the right type of fuel.</p>
+			<p> Do not approach your nutrition paln as a diet plan, but rather, a lifestyle change. If you make a permanent change, you will see big results. The key to succes is a daily focus on your goal.</p>
+			<p>Portion your meals and track your calories. There are many free mobile apps available to help track your activity level and calories.</p>
+			<p>Control impulsive urges to buy junk food, and instead, allow yourself to one "cheat" meal a week.</p>
+			<aside>Did you know the average American consumes 3 lbs if sugar each week? </aside>
+		</article>
+		
+		<article>
+			<h2>Meal of the Week</h2>
+			<img src="images/nutrition3.jpg" alt="herb roasted chicken image" class="desktop">
+			<p> Herb Roasted Chicken</p>
+			<p> Ingredients:</p>
+			<ul>
+				<li>boneless, skinless chicken breast (organic preferred)</li>
+				<li>1 tsp Herbes de Provence</li>
+				<li>1 tsp lemon juice</li>
+				<li>1 tsp olive oil</li>
+				<li>1 tsp sea salt</li>
+				<li>&frac14; tsp pepper</li>
+			</ul>
+			<p>Instructions:<br>
+			Combine all ingrdients in a plastic bag and marinate for at least an hour. Preheat oven to 350 degrees. Bake chicken for 30-35 minutes or unitil juices run clear. Boil on high for two minutes or until brown. Serve with a fresh side salad.</p>
+			<aside>Did you know the average active adult should consume 2,00 calories a day?</aside>	
+		
+		</aside>
+	</main>
+
+	<!-- Use the footer area to add webpage footer content -->
+	<footer>
+		&copy; Copyright 2015. All Right Reserved. <br> 
+		<a href="mailto:forwardfitness@club.net">forwardfitness@club.net</a>
+	</footer>
+
+</body>
+</html>
